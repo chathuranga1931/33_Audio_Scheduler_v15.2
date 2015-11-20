@@ -1,0 +1,10 @@
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\bin\Debug\Audio Scheduler v15.2.exe
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\bin\Debug\Audio Scheduler v15.2.pdb
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\bin\Debug\Audio Scheduler v15.2.xml
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\obj\Debug\ResolveAssemblyReference.cache
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\obj\Debug\Audio_Scheduler_v15._2.Form1.resources
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\obj\Debug\Audio_Scheduler_v15._2.Resources.resources
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\obj\Debug\Audio Scheduler v15.2.vbproj.GenerateResource.Cache
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\obj\Debug\Audio Scheduler v15.2.exe
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\obj\Debug\Audio Scheduler v15.2.xml
+F:\ELECTRONIC\2015\Projects\33.Audio Scheduler v15.2\Audio Scheduler v15.2\Audio Scheduler v15.2\obj\Debug\Audio Scheduler v15.2.pdb
